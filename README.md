@@ -1,2 +1,2 @@
-# nomad-wp
+# Nomad Wordpress site
 WP website for Nomad
