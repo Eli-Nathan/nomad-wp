@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="1061px" viewBox="0 0 1921 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>nomad-hero</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920.249" height="999"></rect>
+        <linearGradient x1="69.2712358%" y1="92.1520597%" x2="0%" y2="68.8%" id="linearGradient-3">
+            <stop stop-color="#44D5E9" offset="0%"></stop>
+            <stop stop-color="#3F73DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.5729755%" y1="62.6288611%" x2="9.6920438%" y2="42.1804648%" id="linearGradient-4">
+            <stop stop-color="#F8929C" offset="0%"></stop>
+            <stop stop-color="#F45B69" offset="100%"></stop>
+        </linearGradient>
+        <path d="M747.125746,610.660562 L2363.91011,610.760602 C2636.31969,610.777609 2857.16252,831.614442 2857.18053,1104.01302 L2857.22555,1832.33999 C2857.22555,2104.73857 2636.42473,2325.53038 2364.01715,2325.53038 L747.232789,2325.43034 C474.824211,2325.41333 253.979375,2104.5805 253.962368,1832.17793 L253.91735,1103.85095 C253.91735,831.452377 474.717168,610.660562 747.125746,610.660562 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.051" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.102" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="nomad-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="Mask_Group_1-Clipped" transform="translate(0.751000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle_31"></g>
+                <g id="Mask_Group_1" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(-506.786569, -1740.170015)" id="Path_4">
+                        <g transform="translate(1555.571450, 1468.095471) rotate(-36.995898) translate(-1555.571450, -1468.095471) ">
+                            <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group_915" transform="translate(0.000000, 135.359000)" fill-rule="nonzero">
+                <path d="M0.751,863.641087 C3.74,863.902 3.261,275.641 0.751,273.784 C75.761,242.64 236.23,212.572 362.235,315.092 C692.089,583.465 804.522,371.64 1017.883,243.64 C1231.244,115.64 1432.244,414.113 1685.97,300.973 C1939.696,187.833 1846.52,39.761 1921,0 L1921,863.641087 C1921,863.641087 4.088,859.918 0.751,863.641087 Z" id="Path_1013" fill="url(#linearGradient-6)"></path>
+                <path d="M1920.999,863.637 L1920.999,396.437 C1740.642,6.837 1750.649,372.466 1476.214,354.57 C1201.779,336.674 1100.358,169.65 825.925,461.943 C551.492,754.236 497.612,272.318 226.484,396.438 C108.002,450.678 40.711,390.355 0.75,301.813 C-0.25,297.646 -0.25,861.646 0.75,863.646 C480.812,1004.097 1920.999,863.637 1920.999,863.637 Z" id="Path_54" fill="url(#linearGradient-7)" opacity="0.7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

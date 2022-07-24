@@ -1,0 +1,5 @@
+<svg id="iconspace_Bulb_25px" xmlns="http://www.w3.org/2000/svg" width="66.237" height="66.237" viewBox="0 0 66.237 66.237">
+  <path id="Bulb" d="M0,0H66.237V66.237H0Z" fill="none"/>
+  <path id="Bulb-2" data-name="Bulb" d="M6.624,15.9A6.625,6.625,0,0,1,0,9.273V7.948H18.547V9.273A6.625,6.625,0,0,1,11.923,15.9ZM0,5.3V0H18.547V5.3Z" transform="translate(23.845 45.041)" fill="#44d5e9"/>
+  <path id="Bulb-3" data-name="Bulb" d="M23.845,37.093V25.17a1.325,1.325,0,0,0-2.649,0V37.093H18.546V25.17a1.325,1.325,0,1,0-2.649,0V37.093H9.95a19.871,19.871,0,1,1,19.841,0Z" transform="translate(13.247 5.299)" fill="#3b5afb"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-inco-intro-secbg07);
+      }
+
+      .cls-2 {
+        opacity: 0.29;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: 0.52;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.432" y1="0.436" x2="0.745" y2="0.21" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f73dc" stop-opacity="0.412"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.099" y1="0.176" x2="0.468" y2="0.436" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.271"/>
+      <stop offset="1" stop-color="#44d5e9" stop-opacity="0.478"/>
+    </linearGradient>
+    <clipPath id="clip-inco-intro-secbg07">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="inco-intro-secbg07" class="cls-1">
+    <rect class="cls-5" width="1920" height="1080"/>
+    <g id="Shape" class="cls-2" transform="matrix(0.996, 0.087, -0.087, 0.996, 1755.566, -3023.467)">
+      <path id="Path_195" data-name="Path 195" class="cls-3" d="M0,374s93.687-83.6,210.795-77,291.719-265.98,510.7-87.79,284.312,81.968,436.57-6.81,221.915,123.521,390.358,48.4S1741,26.4,1790.447,0c-2.6,4.4,0,563.2,0,563.2s-614.71,230.8-836.542,0S0,563.2,0,563.2Z" transform="matrix(0.996, -0.087, 0.087, 0.996, -1748.872, 3329.18)"/>
+      <path id="Path_196" data-name="Path 196" class="cls-4" d="M4662.955,1535.663s-30.58,130.484-150.314-128.195-208.534-15.916-390.726-27.8-249.522-122.781-431.713,71.292-217.961-125.9-397.957-43.493S3121.771,1173.971,3078,1146.5c2.3,4.578,0,586.034,0,586.034s429.635,222.56,792.6,0c95.1-58.311,123.2-169.992,332.531-84.678,330.355,127.207,459.825,84.678,459.825,84.678Z" transform="translate(-5165.39 2759.553) rotate(-8)"/>
+    </g>
+  </g>
+</svg>

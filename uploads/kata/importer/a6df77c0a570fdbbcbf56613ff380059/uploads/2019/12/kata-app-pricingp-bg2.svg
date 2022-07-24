@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438.069" height="560.071" viewBox="0 0 438.069 560.071">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e497ff"/>
+      <stop offset="1" stop-color="#4b60ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <g id="inco-app-pricing-bg2" transform="translate(-1195 -5041)">
+    <path id="Rectangle_26" data-name="Rectangle 26" d="M0,0H432a5,5,0,0,1,5,5V554a5,5,0,0,1-5,5H0Z" transform="translate(1195 5041)" fill="url(#linear-gradient)"/>
+    <path id="Path_200" data-name="Path 200" d="M5401.16,1457.39c-115.975-131.064-275.3-84.223-436.96-29.56,1.067,72.057,0,398.84,0,398.84h436.96S5402.4,1487.78,5401.16,1457.39Z" transform="translate(-3768.971 3774.246)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_199" data-name="Path 199" d="M4828.04,1459.6c-52.7,24.432-111.662,42.4-177.793,38.083-105.094-6.854-185.813-35.583-259.832-52.058-.959,78.068,0,294.2,0,294.2H4828.04S4827.61,1575.69,4828.04,1459.6Z" transform="translate(-3194.971 3861.246)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

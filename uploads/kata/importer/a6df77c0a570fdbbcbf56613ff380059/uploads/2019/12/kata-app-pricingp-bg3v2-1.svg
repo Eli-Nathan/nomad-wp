@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="472.869" height="624.992" viewBox="0 0 472.869 624.992">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.016" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#44d5e9"/>
+      <stop offset="1" stop-color="#3f73dc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.064" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="inco-app-pricing-bg3" transform="translate(-722.794 -5008)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="472" height="624" transform="translate(723.5 5008)" fill="url(#linear-gradient)"/>
+    <path id="Path_200" data-name="Path 200" d="M4964.4,1428.1c-107.521,36.373-216.739,75.934-314.151,69.581-59-3.848-110.746-14.981-157.273-26.59-3.11,166.18.751,385.856.751,385.856H4963.4S4965.15,1556.37,4964.4,1428.1Z" transform="translate(-3768.971 3774.246)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_199" data-name="Path 199" d="M4390.39,1445.39c-118.273-26.139-221.6-20.1-390.355,159.656-29.36,31.275-57.2,53.126-81.782,68.2-.569,41.591,0,97.442,0,97.442l472.137,1.058S4390.94,1498.83,4390.39,1445.39Z" transform="translate(-3194.971 3861.246)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
